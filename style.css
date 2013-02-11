@@ -1,0 +1,21 @@
+form.namePass{text-align:center;}
+body{height:99%;}
+.share-left{float:left;margin:5px 0 0 0;font-size:7pt;line-height:7pt;width:151px;height:60px;}
+.share-right{float:right;margin:0;font-size:7pt;line-height:7pt;width:151px;height:60px;}
+#footerLinks {padding: 0 150px 0 130px}
+#footerLinks li {padding: 0 7px 0 7px}
+.footerbold{border: none;}
+#pad{height:85%; overflow: scroll; -webkit-overflow-scrolling: touch;}
+.pad-sakai{height:1170px;}
+#pad-wrap{height:100%;padding:4px 0 4px 0}
+#pad-creator{float:left;width:45%;padding:2px 2px 2px 10px}
+#pad-iframe{border-style:solid; border-width:1px;}
+#logout{float:right;background: #FFF url(https://www.brocku.ca/sites/all/themes/custom/brock/images/bg-utilities.jpg) no-repeat left top;width:49%;text-align:right;padding: 0 20px 0 0;}
+#print-notes{display:none}
+.motd{color:#c00;font-weight:bold;}
+.p_one{padding-top:2em}
+.centre{text-align:center;}
+#main .wrapper{height:140px;}
+.padTitle{padding-left:50px;display:inline;}
+.padAuthor{display:inline;}
+
